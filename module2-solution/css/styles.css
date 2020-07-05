@@ -36,24 +36,27 @@ h1 {
     background-color: #FF8800;
     margin-top: 0px;
     position: absolute;
-    top: 1px;
-    right: 1px;
+    font-size: 120%;
+    top: 0px;
+    right: 0px;
 }
 .beef {
     color: white;
     background-color: #FF4500;
     margin-top: 0px;
     position: absolute;
-    top: 1px;
-    right: 1px;
+    font-size: 120%;
+    top: 0px;
+    right: 0px;
 }
 .sushi {
     color: white;
     background-color: #ffc400;
     margin-top: 0px;
     position: absolute;
-    top: 1px;
-    right: 1px;
+    font-size: 120%;
+    top: 0px;
+    right: 0px;
 }
 
 .row {
