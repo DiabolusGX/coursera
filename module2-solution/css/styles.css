@@ -34,14 +34,26 @@ h1 {
 .chicken {
     color: white;
     background-color: #FF8800;
+    margin-top: 0px;
+    position: absolute;
+    top: 1px;
+    right: 1px;
 }
 .beef {
     color: white;
     background-color: #FF4500;
+    margin-top: 0px;
+    position: absolute;
+    top: 1px;
+    right: 1px;
 }
 .sushi {
     color: white;
     background-color: #ffc400;
+    margin-top: 0px;
+    position: absolute;
+    top: 1px;
+    right: 1px;
 }
 
 .row {
